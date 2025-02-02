@@ -1,17 +1,21 @@
 body {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 20px;
   font-family: "Courier";
   background-color: #fff5e4;
   color: #ff9494;
+  font-size: 12px;
 }
+
 #thankyou {
-  font-size: 50px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  font-size: 8px; /* Changed font size to smaller */
 }
+
 .rizz {
-  margin-bottom: 10 px;
+  margin-bottom: 10px;
 }
+
 .button {
   padding: 10px 20px;
   font-size: 18px;
